@@ -14,7 +14,6 @@ As part of our 3rd year Epitech, I developed the Epicture project as part of the
 ## SUMMARY
 - **general information**
 - **Functionalities**
- - **Request API**
 
 ## GENERAL INFORMATION
 
